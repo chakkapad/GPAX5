@@ -1,0 +1,17 @@
+D:\งาน\GPAX5\gpax5\gpax5\bin\Debug\net6.0-windows\gpax5.exe
+D:\งาน\GPAX5\gpax5\gpax5\bin\Debug\net6.0-windows\gpax5.deps.json
+D:\งาน\GPAX5\gpax5\gpax5\bin\Debug\net6.0-windows\gpax5.runtimeconfig.json
+D:\งาน\GPAX5\gpax5\gpax5\bin\Debug\net6.0-windows\gpax5.dll
+D:\งาน\GPAX5\gpax5\gpax5\bin\Debug\net6.0-windows\ref\gpax5.dll
+D:\งาน\GPAX5\gpax5\gpax5\bin\Debug\net6.0-windows\gpax5.pdb
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.csproj.AssemblyReference.cache
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.Form1.resources
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.csproj.GenerateResource.cache
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.AssemblyInfoInputs.cache
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.AssemblyInfo.cs
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.csproj.CoreCompileInputs.cache
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.dll
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\ref\gpax5.dll
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.pdb
+D:\งาน\GPAX5\gpax5\gpax5\obj\Debug\net6.0-windows\gpax5.genruntimeconfig.cache

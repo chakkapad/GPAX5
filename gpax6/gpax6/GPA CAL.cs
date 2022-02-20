@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gpax5
+namespace gpax6
 {
     internal class GPA_CAL
     {
@@ -19,38 +19,43 @@ namespace gpax5
         /// add new GPAx of class
         /// </summary>
         /// <param name="gpa"></param>
-
-        public void addGPA(double gpa, string name)
+        
+        public void addGPA(double gpa,string name)
         {
             this.sum += gpa;
             this.n++;
             this.alldata += name + "--> " + gpa + Environment.NewLine;
 
-            if (this.max < gpa)
+            if (this.max<gpa)
             {
                 this.max = gpa;
                 this.name = name;
 
             }
-            if (this.min > gpa)
+            if (this.min>gpa)
             {
                 this.min = gpa;
                 this.name = name;
             }
+                      
+        }
 
-        }
-        public double getMin()
-        {
-            return this.min;
-        }
-        public string getminMname()
-        {
-            return this.name;
-
-        }
-        internal void addGPA(double dInput, object nme)
+        internal string getMinName()
         {
             throw new NotImplementedException();
+        }
+
+        public double getMin()
+        { 
+            return this.min; 
+        }
+        public string getMinMname()
+        { 
+            return this.name;
+        }
+       internal void addGPA(double dInput, object nme)
+        {
+          throw new NotImplementedException();
         }
         ///<summary>
         ///Return GPAx of class
@@ -58,24 +63,20 @@ namespace gpax5
         ///<return></return>
         public double getGPAx()
         {
-            double result = this.sum / this.n;
-            return result;
+           double result = this.sum / this.n;
+           return result;
         }
         public double getMax()
         {
-            return this.max;
+           return this.max;
         }
         public string getMaxName()
         {
-            return name;
+           return name;
         }
         public string getAlldata()
         {
-            return alldata;
+           return alldata; 
         }
-    }
+    }    
 }
-
-
-
-

@@ -1,0 +1,17 @@
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.csproj.AssemblyReference.cache
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.Form1.resources
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.csproj.GenerateResource.cache
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.AssemblyInfoInputs.cache
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.AssemblyInfo.cs
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.csproj.CoreCompileInputs.cache
+D:\งาน\GPAX5\gpax6\gpax6\bin\Debug\net6.0-windows\gpax6.exe
+D:\งาน\GPAX5\gpax6\gpax6\bin\Debug\net6.0-windows\gpax6.deps.json
+D:\งาน\GPAX5\gpax6\gpax6\bin\Debug\net6.0-windows\gpax6.runtimeconfig.json
+D:\งาน\GPAX5\gpax6\gpax6\bin\Debug\net6.0-windows\gpax6.dll
+D:\งาน\GPAX5\gpax6\gpax6\bin\Debug\net6.0-windows\ref\gpax6.dll
+D:\งาน\GPAX5\gpax6\gpax6\bin\Debug\net6.0-windows\gpax6.pdb
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.dll
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\ref\gpax6.dll
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.pdb
+D:\งาน\GPAX5\gpax6\gpax6\obj\Debug\net6.0-windows\gpax6.genruntimeconfig.cache

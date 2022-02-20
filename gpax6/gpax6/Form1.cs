@@ -1,14 +1,17 @@
-namespace gpax5
+namespace gpax6
 {
     public partial class Form1 : Form
     {
         GPA_CAL oGPAcal = new GPA_CAL();
-        private object dInput;
-
         public Form1()
         {
             InitializeComponent();
         }
+
+        /*private void textBoxGPA_input_TextChanged(object sender, EventArgs e)
+        {
+
+        }*/
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -23,13 +26,13 @@ namespace gpax5
 
             double max = oGPAcal.getMax();
             textBoxMaxGPA.Text = max.ToString();
-            textBoxMaxName.Text = oGPAcal.getMaxName();ToString();
+            textBoxMaxName.Text = oGPAcal.getMaxName(); ToString();
 
             double min = oGPAcal.getMin();
-            textBoxMinGPA.Text= min.ToString();
-            textBoxMinName.Text= oGPAcal.getminMname();
+            textBoxMaxGPA.Text = min.ToString();
+            textBoxMinName.Text = oGPAcal.getMinName();
 
-            textBoxGPA_input.Text = " ";
+            textBoxGPA_input.Text = "";
             textBoxName_input.Text = String.Empty;
             textBoxAllData.Text = oGPAcal.getAlldata();
         }
@@ -44,6 +47,11 @@ namespace gpax5
             textBoxMaxName.Text = "";
             textBoxMinName.Text = "";
             textBoxAllData.Text = "";
+        }
+
+        private void textBoxGPA_input_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
